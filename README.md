@@ -1,4 +1,4 @@
-# sql-challenge
+# Business Data Analysis: Queries in SQL
 This is an assignment that I completed for the George Washington University Data Analytics Bootcamp, focused on analysis in SQL.
 
 ##Background
